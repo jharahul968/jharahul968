@@ -7,7 +7,7 @@
 - 👀 I’m interested in AI/ML and software development.
 - 🌱 I’m currently a Computer Engineering Student.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : <a>jharahul.com.np</a>
+- 📫 How to reach me : [Website](jharahul968)
 
 <!---
 jharahul968/jharahul968 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
