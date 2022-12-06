@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jharahul968&&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jharahul968&theme=dark&show_icons=true)<br/>
 
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=jharahul968&theme=react-dark)](https://github.com/jharahul968/github-readme-activity-graph)
+[![Rahul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jharahul968&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
