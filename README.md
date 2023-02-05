@@ -6,7 +6,7 @@
 - 👋 Hi, I’m Rahul Jha.
 - 👀 I’m interested in AI/ML and software development.
 - 🌱 I’m currently a Computer Engineering Student.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software/ML projects.
 - 📫 How to reach me : [Website](https://jharahul.com.np)
 
 <!---
