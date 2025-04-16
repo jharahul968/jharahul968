@@ -4,9 +4,9 @@
 </h1>
 
 - 👋 Hi, I’m Rahul Jha.
-- 👀 I’m interested in AI/ML and software development.
-- 🌱 I’m currently a Computer Engineering Student.
-- 💞️ I’m looking to collaborate on Web Development, ML and DevOps.
+- 👀 I’m interested in AI/ML and Software Engineering.
+- 🌱 I’m currently working as a Software Engineer.
+- 💞️ I’m looking to collaborate on Software Engineering, DevOps and LLMs.
 - 📫 How to reach me : [Website](https://jharahul.com.np)
 
 <!---
