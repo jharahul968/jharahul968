@@ -88,17 +88,16 @@ PostgreSQL • MongoDB • Redis • SQS • SNS
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jharahul968&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jharahul968&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharahul968&layout=compact&theme=dark" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharahul968&layout=compact&theme=dark" />
-</p>
-
 ---
 
 ## 🎯 What I'm Focused On
