@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rahul Jha 👋</h1>
 
 <p align="center">
-Senior Software Engineer | Distributed Systems | Backend + AI Systems | Full-Stack Developer
+Software Engineer | Distributed Systems | Backend + AI Systems | Full-Stack Developer
 </p>
 
 ---
@@ -113,8 +113,3 @@ PostgreSQL • MongoDB • Redis • SQS • SNS
 - 💻 GitHub: https://github.com/jharahul968  
 - 📧 Email: jharahul968@gmail.com  
 
----
-
-<p align="center">
-⚡ Building systems that scale, perform, and survive real-world chaos ⚡
-</p>
