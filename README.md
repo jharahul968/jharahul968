@@ -95,6 +95,10 @@ PostgreSQL • MongoDB • Redis • SQS • SNS
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharahul968&layout=compact&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharahul968&layout=compact&theme=dark" />
+</p>
+
 ---
 
 ## 🎯 What I'm Focused On
